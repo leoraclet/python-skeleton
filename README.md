@@ -14,7 +14,7 @@ This is a simple template skeleton for python projects.
 ## License
 
 This project is released under the 
-[**MIT**](https://github.com/leoraclet/cpp_skeleton/LICENSE)
+[**MIT**](https://mit-license.org/)
 license.
 
 ## Releases
