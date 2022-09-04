@@ -1,6 +1,6 @@
 # python_skeleton
 
-![License](https://img.shields.io/github/license/leoraclet/python_skeleton)
+![License](https://img.shields.io/github/license/leoraclet/python-skeleton)
 
 This is a simple template skeleton for python projects.
 
