@@ -1,4 +1,4 @@
-# python_skeleton
+# python-skeleton
 
 ![License](https://img.shields.io/github/license/leoraclet/python-skeleton)
 
