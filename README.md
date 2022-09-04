@@ -6,7 +6,6 @@ This is a simple template skeleton for python projects.
 
 ## Summary
 
-* **[Summary](#summary)**
 * **[Releases](#releases)**
 * **[License](#license)**
 * **[Credits](#credits)**
@@ -23,6 +22,6 @@ To run the program without editing the source code or building
 it yourself, go see the 
 [**Releases**](https://github.com/leoraclet/cpp_skeleton/releases).
 
-# Credits
+## Credits
 
 * [**Léo Raclet**](https://github.com/leoraclet) : Creator of the project.
